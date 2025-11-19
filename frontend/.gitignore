@@ -16,3 +16,7 @@ env/
 .DS_Store
 .vscode/
 .idea/
+
+# exception logs
+# this folder contains local execution results and is not subject to version control.
+analysis_logs/
